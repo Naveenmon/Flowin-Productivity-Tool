@@ -2,7 +2,7 @@
 # 🌟 Flowin Productivity Tool  
 **Your Gateway to Effortless Organization and Peak Productivity!**  
 
-![Flowin Productivity Tool]([public/Flowin.png])  
+![Flowin Productivity Tool](public/Flowin.png)  
 *A sleek, intuitive, and robust productivity tool designed to keep you in the flow!*
 
 ---
