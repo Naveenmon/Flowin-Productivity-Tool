@@ -1,6 +1,7 @@
 import Image from "next/image";
 
 export function Heroes () {
+
 return (
     <div className="flex flex-col justify-center items-center max-w-5xl">
       <div className="flex items-center">
