@@ -27,8 +27,8 @@ export default function DocumentsPage () {
 
 return (
     <div className="flex flex-col justify-center items-center h-full space-y-4">
-      <Image className="dark:hidden" src='/empty.png' alt="Empty" width='300' height='300'/>
-      <Image className="hidden dark:block" src='/empty-dark.png' alt="Empty" width='300' height='300'/>
+      <Image className="dark:hidden" src='/empty-white.gif' alt="Empty" width='300' height='300'/>
+      <Image className="hidden dark:block" src='/empty-dark.gif' alt="Empty" width='300' height='300'/>
       <h2 className="text-lg font-medium">
         Welcome to {user?.firstName}&apos;s Flowin
       </h2>
