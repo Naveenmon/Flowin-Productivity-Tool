@@ -8,8 +8,14 @@ return (
         <div className="md:ml-auto w-full justify-between md:justify-end flex items-center gap-x-2
         text-muted-foreground">
           <Button variant='ghost' size='sm'>
-            @crafted by Naveen
+            @Crafted by Naveen
           </Button>
+          <a href="https://github.com/Naveenmon/Flowin-Productivity-Tool">
+            <Button variant='ghost' size='sm'>
+              Github
+            </Button>
+          </a>
+          
         </div>
     </div>
 )
