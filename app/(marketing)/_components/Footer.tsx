@@ -8,10 +8,7 @@ return (
         <div className="md:ml-auto w-full justify-between md:justify-end flex items-center gap-x-2
         text-muted-foreground">
           <Button variant='ghost' size='sm'>
-            Privacy Policy
-          </Button>
-          <Button variant='ghost' size='sm'>
-            Terms & Conditions
+            @crafted by Naveen
           </Button>
         </div>
     </div>
