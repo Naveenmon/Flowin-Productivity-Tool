@@ -3,6 +3,9 @@
 **Your Gateway to Effortless Organization and Peak Productivity!**  
 
 ![Flowin Productivity Tool](public/Flowin.png)  
+
+![Flowin Live Demo]([https://yourdomain.com](https://flowin.vercel.app/)
+
 *A sleek, intuitive, and robust productivity tool designed to keep you in the flow!*
 
 ---
