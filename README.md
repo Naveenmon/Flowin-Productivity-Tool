@@ -4,7 +4,7 @@
 
 ![Flowin Productivity Tool](public/Flowin.png)  
 
-[Flowin Live Demo]([https://yourdomain.com](https://flowin.vercel.app/)
+[Flowin Live Demo](https://flowin.vercel.app/)
 
 *A sleek, intuitive, and robust productivity tool designed to keep you in the flow!*
 
