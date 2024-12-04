@@ -2,7 +2,10 @@
 # 🌟 Flowin Productivity Tool  
 **Your Gateway to Effortless Organization and Peak Productivity!**  
 
-![Flowin Productivity Tool](https://via.placeholder.com/800x400)  
+![Flowin Productivity Tool](public/Flowin.png)  
+
+[Flowin Live Demo](https://flowin.vercel.app/)
+
 *A sleek, intuitive, and robust productivity tool designed to keep you in the flow!*
 
 ---
